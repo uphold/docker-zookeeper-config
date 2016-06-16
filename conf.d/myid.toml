@@ -1,0 +1,6 @@
+[template]
+src = "myid.tmpl"
+dest = "/tmp/zookeeper/myid"
+keys = [
+  "/self/container/service_index"
+]

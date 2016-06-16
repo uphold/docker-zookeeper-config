@@ -1,0 +1,6 @@
+[template]
+src = "zoo.cfg.dynamic.tmpl"
+dest = "/opt/zookeeper/conf/zoo.cfg.dynamic"
+keys = [
+  "/self/stack/services/zookeeper/containers"
+]
